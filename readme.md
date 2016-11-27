@@ -1,7 +1,6 @@
-# Learn Redux
+# Reduxstagram
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
-
+Simple Instagram clone built with React and Redux. Based on Wes Bos Learn Redux tutorial.
 ## Running
 
 First `npm install` to grab all the necessary dependencies. 
